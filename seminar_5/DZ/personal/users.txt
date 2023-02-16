@@ -1,0 +1,6 @@
+1,Ivan,Pupkin,+79051234568
+2,Piter,Parker,+82106589784
+3,Olga,Koshkina,+79245678942
+4,Helga,Tolkova,+79851234587
+5,Igor,Polkin,+79146549874
+6,Kate,Snow,+42157896532
