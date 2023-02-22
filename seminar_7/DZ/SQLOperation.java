@@ -12,6 +12,7 @@ public class SQLOperation implements Operation {
         Console.getInstance().print("Загрузка SQLITE...");
         this.databaseManager = databaseManager;
     }
+    
     @Override
     public void editNote(Note note, int id) {
         this.databaseManager.update(String.format("UPDATE notes SET text='%s', head='%s' WHERE id=%d", note.getText(), note.getHeading(), id));
